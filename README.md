@@ -127,3 +127,4 @@ The project comes with the auto-public repository configured. To setup the repos
 "# AEM" 
 "# AEM" 
 "# AEM" 
+"# aem2" 
