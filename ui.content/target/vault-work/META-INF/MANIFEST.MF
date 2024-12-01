@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.4
+Build-Jdk-Spec: 11
+Implementation-Title: Demo - UI content
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: content
+Content-Package-Id: com.adobe.aem.demo:aem-guides-demo.ui.content:0.0.1-
+ SNAPSHOT
+Content-Package-Description: UI content package for Demo
+Content-Package-Dependencies: com.adobe.aem.demo:aem-guides-demo.ui.apps
+ :0.0.1-SNAPSHOT
+Content-Package-Dependencies-Locations: com.adobe.aem.demo:aem-guides-de
+ mo.ui.apps:0.0.1-SNAPSHOT=maven:com.adobe.aem.demo:aem-guides-demo.ui.a
+ pps:0.0.1-SNAPSHOT:zip
+Content-Package-Roots: /conf/Demo,/content/Demo,/content/dam/Demo,/conte
+ nt/experience-fragments/Demo
+

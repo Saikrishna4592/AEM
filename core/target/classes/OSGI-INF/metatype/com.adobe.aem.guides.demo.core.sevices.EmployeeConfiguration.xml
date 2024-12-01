@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.2.0" localization="OSGI-INF/l10n/com.adobe.aem.guides.demo.core.sevices.EmployeeConfiguration">
+  <OCD id="com.adobe.aem.guides.demo.core.sevices.EmployeeConfiguration" name="EmployeeConfiguration" description="about EmployeeConfiguration">
+    <AD id="empId" type="String" name="empId" description="about empId" default="Please\ Enter\ Emp\ Id"/>
+    <AD id="empName" type="String" name="empName" description="about empName" default="Please\ Enter\ Emp\ Name"/>
+    <AD id="empNumber" type="String" name="empNumber" description="about empNumber" default="Please\ Enter\ Emp\ Number"/>
+    <AD id="empRestApi" type="String" name="empRestApi" description="about empRestApi" default="Please\ Enter\ empRestApi"/>
+  </OCD>
+  <Designate pid="com.adobe.aem.guides.demo.core.sevices.EmployeeDetails">
+    <Object ocdref="com.adobe.aem.guides.demo.core.sevices.EmployeeConfiguration"/>
+  </Designate>
+</metatype:MetaData>

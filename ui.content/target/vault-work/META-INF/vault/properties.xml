@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Demo - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.adobe.aem.demo:aem-guides-demo.ui.apps:0.0.1-SNAPSHOT=maven:com.adobe.aem.demo:aem-guides-demo.ui.apps:0.0.1-SNAPSHOT:zip</entry>
+<entry key="created">2024-11-29T12:09:21.617Z</entry>
+<entry key="groupId">com.adobe.aem.demo</entry>
+<entry key="description">UI content package for Demo</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.adobe.aem.demo:aem-guides-demo.ui.apps:0.0.1-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">aem-guides-demo.ui.content</entry>
+<entry key="artifactId">aem-guides-demo.ui.content</entry>
+<entry key="group">com.adobe.aem.demo</entry>
+</properties>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Demo - UI config</comment>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2024-11-29T12:09:23.166Z</entry>
+<entry key="groupId">com.adobe.aem.demo</entry>
+<entry key="name">aem-guides-demo.ui.config</entry>
+<entry key="description">UI config package for Demo</entry>
+<entry key="artifactId">aem-guides-demo.ui.config</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.aem.demo</entry>
+</properties>

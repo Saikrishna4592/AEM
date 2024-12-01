@@ -1,0 +1,7 @@
+org\apache\sling\scripting\sightly\apps\Demo\components\page\customheaderlibs_html.class
+org\apache\sling\scripting\sightly\apps\Demo\components\page\customfooterlibs_html.class
+org\apache\sling\scripting\sightly\apps\Demo\components\xfpage\customfooterlibs_html.class
+org\apache\sling\scripting\sightly\apps\Demo\components\article\article_html.class
+org\apache\sling\scripting\sightly\apps\Demo\components\helloworld\helloworld_html.class
+org\apache\sling\scripting\sightly\apps\Demo\components\xfpage\content_html.class
+org\apache\sling\scripting\sightly\apps\Demo\components\xfpage\customheaderlibs_html.class
